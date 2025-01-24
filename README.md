@@ -47,7 +47,7 @@ If you are interested in contributing or getting involved with this project, ple
 </ul>
 
 
-### LICENSE
+### LICENSE <cesarJrivera>
 
 Copyright (C) 2017 by Max Lv <<max.c.lv@gmail.com>>  
 Copyright (C) 2017 by Mygod Studio <<contact-shadowsocks-android@mygod.be>>
